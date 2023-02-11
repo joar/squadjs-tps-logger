@@ -1,4 +1,4 @@
-## SquadJS Switch Plugin
+## SquadJS TPS Logger Plugin
 TPS Logger plugin for SquadJS.
 
 ### Example configuration
